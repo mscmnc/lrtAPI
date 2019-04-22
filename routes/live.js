@@ -11,5 +11,4 @@ router.get('/lr', liveController.getLiveLR);
 router.get('/klasika', liveController.getLiveKlasika);
 router.get('/opus', liveController.getLiveOpus);
 
-
 module.exports = router;
